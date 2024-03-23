@@ -30,17 +30,17 @@ The Travels & Tourism Management System is to manage the details of Customer, Pa
 
     6. Open phpMyAdmin (http://localhost/phpmyadmin/)
 
-    7. Create a database with name "react" 
+    7. Create a database with name "react".
 
     8. Import "react.sql" file (given inside the zip package in "Database" folder).
 
-    9. Run LARAVEL :
+    9. Run CodeIgniter :
     
-        - Open C:\ xampp \ htdocs \ LARAVEL \ sakin folder. [ Root directory ]
+        - Open C:\ xampp \ htdocs \ CodeIgniter 2 \ MyProject . [ Root directory ]
 
-        - Open git bash here or your Terminal > run  "php artisan serve" [ Laravel CLI ]
+        - Open git bash here or your Terminal > run  "php spark serve" [ CodeIgniter CLI ]
 
-        - Open a browser run localhost:8000 [ Not mandatory ]
+        - Open a browser run localhost:8080 [ Not mandatory ]
 
     10. Run REACT :
 
