@@ -12,7 +12,7 @@ The Travels & Tourism Management System is to manage the details of Customer, Pa
 | XAMPP Version           | XAMPP 8.2.4                                                 |
 | Web Browser             | Google Chrome, Mozilla Firefox                              |
 | Front end               | React 18.2.0                                                |
-| Back end                | Laravel 10.3.2                                              |
+| Back end                | CodeIgniter 4.4.3                                             |
 
 
 
@@ -22,9 +22,9 @@ The Travels & Tourism Management System is to manage the details of Customer, Pa
 
     2. Extract the files and copy those  files in your preferable Xampp folder [C/D/E].
 
-    3. Make two folder name  "REACT" and "LARAVEL" in your preferable Xampp folder [C/D/E].
+    3. Make two folder name  "REACT" and "CodeIgniter 2" in your preferable Xampp folder [C/D/E].
     
-    4. In LARAVEL folder keep the "sakin" file. Which was used for Back end.
+    4. In CodeIgniter 2  folder keep the "MyProject" file. Which was used for Back end.
 
     5. In REACT folder keep the "hacker-stories" file. Which was used for Front end.
 
