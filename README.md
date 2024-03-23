@@ -68,3 +68,10 @@ The Travels & Tourism Management System is to manage the details of Customer, Pa
 - Hotel services, rooms, floors entries
 - Hotel services payment 
 - Hotel Check-out with printed bill
+
+  ## Tech Stack
+
+**Client:** React 18
+
+**Server:** Node, Git, CodeIgniter 4
+
