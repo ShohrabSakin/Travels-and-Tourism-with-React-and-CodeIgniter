@@ -14,6 +14,7 @@ The Travels & Tourism Management System is to manage the details of Customer, Pa
 | Front end               | React 18.2.0                                                |
 | Back end                | CodeIgniter 4.4.3                                             |
 
+## Some Project Screenshots
 
 
 
