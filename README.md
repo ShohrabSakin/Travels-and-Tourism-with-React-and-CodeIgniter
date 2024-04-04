@@ -12,7 +12,7 @@ The Travels & Tourism Management System is to manage the details of Customer, Pa
 | XAMPP Version           | XAMPP 8.2.4                                                 |
 | Web Browser             | Google Chrome, Mozilla Firefox                              |
 | Front end               | React 18.2.0                                                |
-| Back end                | CodeIgniter 4.4.3                                             |
+| Back end                | CodeIgniter 4.4.3                                           |
 
 ## Some Project Screenshots
 
